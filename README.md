@@ -1,18 +1,15 @@
-# biomechanical-analysis
+### Biomechanical Analysis Project
 
+#### Overview
 
-# Project Title
+#### Background and Motivation
 
-## Overview
+#### Goals
 
-## Background and Motivation
+#### Datasets
 
-## Goals
+#### Practical Applications
 
-## Datasets
+#### Milestones
 
-## Practical Applications
-
-## Milestones
-
-## Reference
+#### Reference
