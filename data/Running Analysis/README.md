@@ -17,7 +17,7 @@ Processed Data and Videos:
 Each class has 20 video clips of atleast 4 seconds. Each clip contains content of players performing the 40 yard dash at a scouting combine.
  
 General Raw Data Structure
-
+```
 ├── raw
 │   ├── Defensive Back
 │   │   ├── Defensive Back 01
@@ -27,10 +27,10 @@ General Raw Data Structure
 │   ├── ...
 │   ├── Wide Receivers
 │   │   ├── ...
-
+```
 
 General Processed Data Structure
-
+```
 ├── processed
 │   ├── Defensive Back
 │   │   ├── Defensive Back 01
@@ -42,4 +42,4 @@ General Processed Data Structure
 │   ├── ...
 │   ├── Wide Receivers
 │   │   ├── ...
-
+```
