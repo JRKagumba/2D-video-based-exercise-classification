@@ -1,4 +1,4 @@
-Due to large size of the data, all data has been stored on Google Drive storage. To access, use the following links:
+Due to the large size of the data, all data has been stored on Google Drive storage. To access, use the following links:
 
 Raw Videos: 
  - https://drive.google.com/drive/folders/15UjFBfslOEZuyPIMUAsSGkER2M6ijU5D?usp=sharing
