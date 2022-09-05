@@ -1,7 +1,7 @@
 ### Biomechanical Analysis Project
 
 #### Overview
-Quantitative Biomechanical Analysis and Classification Using Single-camera Videos
+- Quantitative Biomechanical Analysis and Classification Using Single-camera Videos
 
 
 #### Background and Motivation
