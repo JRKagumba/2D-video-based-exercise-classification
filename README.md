@@ -1,17 +1,17 @@
-### Biomechanical Analysis Project
+## Biomechanical Analysis Project
 
-#### Overview
+### Overview
 - Quantitative Biomechanical Analysis and Classification Using Single-camera Videos
 
 
-#### Background and Motivation
+### Background and Motivation
 
-#### Goals
+### Goals
 
-#### Datasets
+### Datasets
 
-#### Practical Applications
+### Practical Applications
 
-#### Milestones
+### Milestones
 
-#### Reference
+### Reference
