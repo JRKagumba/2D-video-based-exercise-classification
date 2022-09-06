@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to create an exerrcise detection algorithm that only requires 2D video of an individual performing the exercise. The algorithm combines elements of coordinate-based, velocity-based, and probabilistic approaches through a data-driven model. A time series model is created, using coordinate- and velocity-based features to predict the likelihood of an exercise being performed.
+This project aims to create an exercise detection algorithm that only requires 2D video of an individual performing the exercise. The algorithm combines elements of coordinate-based, velocity-based, and probabilistic approaches through a data-driven model. A time series model is created, using coordinate- and velocity-based features to predict the likelihood of an exercise being performed.
 
 ## Background and Motivation
 
