@@ -41,16 +41,16 @@ Sample Video: https://user-images.githubusercontent.com/63820705/188673997-b3b7a
   
 ## Milestones
 
-### Phase 1 :heavy_check_mark: :
+### :white_check_mark: Phase 1 :
 Develop pre-processing pipeline and model that can take a video of the correct format as input and output a prediction
 
-### Phase 2 :
+### :white_square_button: Phase 2 :
 Create a web app that allows users to upload or record relevant videos for classification
 
-### Phase 3 : 
+### :white_square_button: Phase 3 : 
 Configure a mobile application to allow for real-time exercise classifaction
 
-### Phase 4 :
+### :white_square_button: Phase 4 :
 Expand exercise suite to allow for more exercises to be recognized 
 
 ## Reference
