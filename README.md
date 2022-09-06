@@ -27,7 +27,7 @@ This project used publicly available video footage of numerous individuals perfo
 - Mountain Climbers
 - Pushups
 
-![image](https://user-images.githubusercontent.com/63820705/188673910-19f9ad80-130b-4594-ab2f-93aade0f8917.png)
+![exercises_collage](https://user-images.githubusercontent.com/63820705/188683690-c37e7862-db58-4479-86cb-d55682443a7b.jpg)
 
 Sample Video: https://user-images.githubusercontent.com/63820705/188673997-b3b7a8e2-262f-4f95-b7c0-1bd07913e641.mp4
 
