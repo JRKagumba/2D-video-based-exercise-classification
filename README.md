@@ -41,4 +41,21 @@ Sample Video: https://user-images.githubusercontent.com/63820705/188673997-b3b7a
   
 ## Milestones
 
+### Phase 1 :heavy_check_mark: :
+Develop pre-processing pipeline and model that can take a video of the correct format as input and output a prediction
+
+### Phase 2 :
+Create a web app that allows users to upload or record relevant videos for classification
+
+### Phase 3 : 
+Configure a mobile application to allow for real-time exercise classifaction
+
+### Phase 4 :
+Expand exercise suite to allow for more exercises to be recognized 
+
 ## Reference
+
+- [Computer Vision and Pose Estimation - Paper #1](https://arxiv.org/pdf/2005.03194.pdf)
+- [Computer Vision and Pose Estimation - Paper #2](https://www.researchgate.net/publication/333625301_Workout_Type_Recognition_and_Repetition_Counting_with_CNNs_from_3D_Acceleration_Sensed_on_the_Chest)
+- [Computer Vision and Pose Estimation - Paper #3](https://eprints.leedsbeckett.ac.uk/id/eprint/5932/1/AutomaticRecognitionofPhysicalExercisesPerformedbyStrokeSurvivorstoImproveRemoteRehabilitationAM-MONEKOSSO.pdf)
+
