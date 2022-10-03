@@ -19,7 +19,7 @@ The motivation for this project is to overcome these limitations, by using a few
 
 ## Datasets
 
-This project used publicly available video footage of numerous individuals performing 5 common exercises. The datasets are available in their [raw](https://drive.google.com/drive/folders/1A9l2agr-vH47Ka-0sNSCWGHg8ZNNzUwJ?usp=sharing) and [processes](https://drive.google.com/drive/folders/1s-H1MJ2RzYzeVfOQikYDZ_T20dsnMDQ8?usp=sharing) formats. The dataset consists of atleast 25 videos of individuals performing the following 5 common exercises: 
+This project used publicly available video footage of numerous individuals performing 5 common exercises. The datasets are available in their [raw](https://drive.google.com/drive/folders/1A9l2agr-vH47Ka-0sNSCWGHg8ZNNzUwJ?usp=sharing) and [processes](https://drive.google.com/drive/folders/1s-H1MJ2RzYzeVfOQikYDZ_T20dsnMDQ8?usp=sharing) formats. Some classes are underrepresented in their representation (e.g., not covering all camera angles). The dataset consists of atleast 25 videos of individuals performing the following 5 common exercises: 
 
 - Burpees
 - Squats
