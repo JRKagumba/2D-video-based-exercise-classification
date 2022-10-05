@@ -33,7 +33,7 @@ Sample Video: https://user-images.githubusercontent.com/63820705/188673997-b3b7a
 
 
 
-https://user-images.githubusercontent.com/63820705/194172708-5e1c203d-14f0-46bc-b9c3-a511979fce3c.mp4
+Sample Vid: https://user-images.githubusercontent.com/63820705/194172708-5e1c203d-14f0-46bc-b9c3-a511979fce3c.mp4
 
 
 
