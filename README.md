@@ -31,6 +31,12 @@ This project used publicly available video footage of numerous individuals perfo
 
 Sample Video: https://user-images.githubusercontent.com/63820705/188673997-b3b7a8e2-262f-4f95-b7c0-1bd07913e641.mp4
 
+
+
+https://user-images.githubusercontent.com/63820705/194172708-5e1c203d-14f0-46bc-b9c3-a511979fce3c.mp4
+
+
+
 ## Practical and Potential Applications
 
 - Could be extended to suggest other exercies based on range of movement and ultimately promote exercise variety
