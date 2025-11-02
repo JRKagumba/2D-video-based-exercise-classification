@@ -1,0 +1,94 @@
+📁 2D-video-based-exercise-classification-main/
+│
+├── 📄 README.md                              ← STOREFRONT: Start here for users
+├── 📄 POSELAB_LAUNCH_PLAN.md                 ← Full 3-week launch plan
+├── 📄 LAUNCH_CHECKLIST.md                    ← What to do next
+├── 📄 SUMMARY.md                             ← Executive summary
+├── 📄 .gitignore                             ← Git ignore rules
+│
+├── 📓 PoseLab_Demo.ipynb                     ← 🎮 FREE DEMO: Upload to Colab
+│
+├── 📁 _archive/                              ← Legacy code & Starter Pack
+│   ├── 📄 00_README_GET_STARTED.md           ← User guide (for purchasers)
+│   ├── 📄 LICENSE.txt                        ← MIT License
+│   │
+│   └── 📁 legacy_xgb_pipeline/               ← Original research code
+│       ├── 📓 00_Apply_OpenPose_to_Raw_Video.ipynb
+│       ├── 💻 00_apply_openpose_to_raw_video.py
+│       ├── 📓 01_Apply_Preprocessing_steps.ipynb
+│       ├── 💻 01_apply_preprocessing_steps.py
+│       ├── 📓 02_Calculate_Joint_Angles.ipynb
+│       ├── 💻 02_calculate_joint_angles.py
+│       ├── 📓 03_XGB_Feature_Generation_and_Model_Creation.ipynb
+│       ├── 💻 03_xgb_feature_generation_and_model_creation.py
+│       ├── 📓 03_XGB_Model_Testing.ipynb
+│       └── 💻 03_xgb_model_testing.py
+│
+├── 📁 models/                                ← Pre-trained XGBoost models
+│   └── 📁 xgb/
+│       ├── 🤖 L_ELB_model.json              (8 models × 2 formats = 16 files)
+│       ├── 🤖 L_ELB_model.pkl
+│       ├── 🤖 R_ELB_model.json
+│       ├── 🤖 R_ELB_model.pkl
+│       ├── 🤖 L_SHO_model.json
+│       ├── 🤖 L_SHO_model.pkl
+│       ├── 🤖 R_SHO_model.json
+│       ├── 🤖 R_SHO_model.pkl
+│       ├── 🤖 L_HIP_model.json
+│       ├── 🤖 L_HIP_model.pkl
+│       ├── 🤖 R_HIP_model.json
+│       ├── 🤖 R_HIP_model.pkl
+│       ├── 🤖 L_KNE_model.json
+│       ├── 🤖 L_KNE_model.pkl
+│       ├── 🤖 R_KNE_model.json
+│       └── 🤖 R_KNE_model.pkl
+│
+└── 📁 data/                                  ← Dataset folder
+    └── 📄 README_data.md                     ← Links to Google Drive
+
+
+═══════════════════════════════════════════════════════════════════
+
+🎯 USER JOURNEY:
+
+1. Find repo on GitHub
+   ↓
+2. Click "Open in Colab" on PoseLab_Demo.ipynb
+   ↓
+3. Run demo → See ROM visualizations
+   ↓
+4. Want more? Click Gumroad link in README
+   ↓
+5. Buy Starter Pack for $29
+   ↓
+6. Get ZIP with full dataset + models + code
+
+═══════════════════════════════════════════════════════════════════
+
+📦 STARTER PACK ZIP STRUCTURE:
+
+PoseLab_Starter_Pack_v1.zip
+│
+├── 00_README_GET_STARTED.md         ← Users read this first
+├── LICENSE.txt
+├── PoseLab_Demo.ipynb               ← Modern demo
+│
+├── legacy_xgb_pipeline/             ← Full research code
+│   └── (all 10 files above)
+│
+├── models/xgb/                      ← All 16 model files
+│   └── (L/R_ELB/SHO/HIP/KNE × .json/.pkl)
+│
+└── data/                            ← 100+ processed videos
+    ├── burpees/
+    │   ├── burpees_01_joint_angles.csv
+    │   ├── burpees_02_joint_angles.csv
+    │   └── ...
+    ├── squats/
+    │   └── (squat CSVs)
+    ├── pushups/
+    ├── jumping_jacks/
+    └── mountain_climbers/
+
+═══════════════════════════════════════════════════════════════════
+
