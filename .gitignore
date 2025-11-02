@@ -16,10 +16,7 @@ ENV/
 *.mp4
 *.avi
 *.mov
-*.json
 *.csv
-data/*/raw/
-data/*/processed/
 
 # Google Drive mounts
 gdrive/
@@ -35,9 +32,9 @@ content/
 .DS_Store
 Thumbs.db
 
-# Models (can be large)
-models/*.pkl
-models/*.h5
+# Large data directories
+data/raw/
+data/processed/
 
 # Temporary
 *.log
