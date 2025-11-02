@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (potentially large)
+*.mp4
+*.avi
+*.mov
+*.json
+*.csv
+data/*/raw/
+data/*/processed/
+
+# Google Drive mounts
+gdrive/
+content/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (can be large)
+models/*.pkl
+models/*.h5
+
+# Temporary
+*.log
+*.tmp
+
