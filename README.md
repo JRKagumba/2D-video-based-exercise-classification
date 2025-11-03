@@ -70,10 +70,7 @@ Result: Models robust to 2D camera noise because they learn **how joints move to
 
 ```
 ├── PoseLab_Demo.ipynb          # ← START HERE: Modern demo (MediaPipe)
-├── _archive/
-│   └── legacy_xgb_pipeline/    # Original research pipeline
-├── models/
-│   └── xgb/                    # Pre-trained models
+├── _archive/                   # Legacy code, models, and datasets
 └── README.md                   # You are here
 ```
 
