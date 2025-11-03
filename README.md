@@ -4,6 +4,12 @@
 
 ---
 
+![PoseLab Showcase](images/poselab-showcase.png)
+
+*PoseLab in action: Real-time pose analysis across diverse exercises and environments*
+
+---
+
 ## 🎮 Try the Free Demo Now
 
 **Run in your browser, right now:**
