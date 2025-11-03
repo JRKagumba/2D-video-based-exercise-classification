@@ -1,3 +1,17 @@
+# [DEPRECATED] This project has moved!
+
+Thanks for your interest! This original branch is now an archive.
+
+This project has been completely rebuilt as **PoseLab**, a modern toolkit for pose analysis with new demos, cleaner data, and pre-trained models.
+
+👉 **[Click here to go to the new PoseLab project (default branch)](https://github.com/JRKagumba/2D-video-based-exercise-classification)**
+
+---
+
+*(The original README content below is kept for archival purposes)*
+
+--------------------------------------------
+
 # 2D Video Based Exercise Classification 
 
 ## Overview
@@ -59,4 +73,3 @@ Expand exercise suite to allow for more exercises to be recognized
 - [Computer Vision and Pose Estimation - Paper #1](https://arxiv.org/pdf/2005.03194.pdf)
 - [Computer Vision and Pose Estimation - Paper #2](https://www.researchgate.net/publication/333625301_Workout_Type_Recognition_and_Repetition_Counting_with_CNNs_from_3D_Acceleration_Sensed_on_the_Chest)
 - [Computer Vision and Pose Estimation - Paper #3](https://eprints.leedsbeckett.ac.uk/id/eprint/5932/1/AutomaticRecognitionofPhysicalExercisesPerformedbyStrokeSurvivorstoImproveRemoteRehabilitationAM-MONEKOSSO.pdf)
-
