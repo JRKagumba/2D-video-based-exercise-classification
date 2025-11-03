@@ -24,16 +24,16 @@
 
 The demo shows you **the magic**. The **Starter Pack** gives you **everything**.
 
-### 🚀 PoseLab Starter Pack - $29
+### 🚀 PoseLab Starter Pack - $20
 
 **Included:**
-- ✅ **Full dataset**: 100+ processed videos (5 exercises)
+- ✅ **Full dataset**: 137 processed videos (5 exercises)
 - ✅ **Complete codebase**: Modern demo + original research pipeline
 - ✅ **Pre-trained models**: 86% accurate XGBoost classifiers
 - ✅ **Ready-to-use**: Load and predict immediately
 - ✅ **Documentation**: Step-by-step guides
 
-**[👉 Get it on Gumroad](your-gumroad-link)**
+**[👉 Get it on Gumroad](https://kagumba.gumroad.com/l/xksdm)**
 
 Perfect for:
 - **Students** learning pose analysis
